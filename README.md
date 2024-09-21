@@ -4,7 +4,7 @@ Este é um projeto de aplicativo de e-commerce desenvolvido em TypeScript e Reac
 
 Este projeto usa o NativeWind, uma implementação do Tailwind CSS para React Native, para fornecer classes utilitárias de estilos, facilitando o desenvolvimento responsivo e bem estruturado.
 
-![nlw-expert-imagem]
+![nlw-expert-image]
 
 ### Construído com
 
@@ -62,4 +62,4 @@ O arquivo products.ts contém uma lista de produtos organizados em categorias, c
 [Expo Badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge
 
 <!-- Images -->
-[nlw-expert-imagem]: /assets/NLW-expert.png
+[nlw-expert-image]: /assets.NLW-expert.png
