@@ -1,8 +1,8 @@
 ## Sobre o Projeto
 
-Este é um projeto de aplicativo de e-commerce desenvolvido em TypeScript e React Native, utilizando o Expo para a construção de interfaces responsivas. O objetivo deste projeto é fornecer uma experiência de compra fluida, com funcionalidades como seleção de produtos, gerenciamento de carrinho e navegação entre categorias de forma dinâmica.
+Este é um projeto de aplicativo de e-commerce desenvolvido em **TypeScript** e **React Native**, utilizando o **Expo** para a construção de interfaces responsivas. O objetivo deste projeto é fornecer uma experiência de compra fluida, com funcionalidades como seleção de produtos, gerenciamento de carrinho e navegação entre categorias de forma dinâmica.
 
-Este projeto usa o NativeWind, uma implementação do Tailwind CSS para React Native, para fornecer classes utilitárias de estilos, facilitando o desenvolvimento responsivo e bem estruturado.
+Este projeto usa o **NativeWind**, uma implementação do **Tailwind CSS** para **React Native**, para fornecer classes utilitárias de estilos, facilitando o desenvolvimento responsivo e bem estruturado.
 
 ![nlw-expert-image]
 
