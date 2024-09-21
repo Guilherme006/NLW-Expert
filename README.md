@@ -62,4 +62,4 @@ O arquivo products.ts contém uma lista de produtos organizados em categorias, c
 [Expo Badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge
 
 <!-- Images -->
-[nlw-expert-imagem]: /asserts/NLW-expert.png
+[nlw-expert-imagem]: /assets/NLW-expert.png
